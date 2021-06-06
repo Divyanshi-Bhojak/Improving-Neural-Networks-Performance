@@ -1,0 +1,6 @@
+For better performace analysis compared the training of Convolutional Neural Networks using two different dataset on three different optimization algorithms SGD with Momentum, Adam and AdamW for Cyclical learning rate and Fixed learning rate. Dataset can be accessed through below mentioned links.
+
+
+CIFAR_10 dataset:  https://www.kaggle.com/c/cifar-10
+
+SVHN(Street View House Numbers) dataset: https://www.kaggle.com/stanfordu/street-view-house-numbers
